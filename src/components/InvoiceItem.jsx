@@ -113,3 +113,4 @@ const ItemRow = ({ item, onItemizedItemEdit, onDelEvent, currency }) => {
 
 export default InvoiceItem;
 
+
